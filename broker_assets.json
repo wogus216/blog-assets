@@ -33,5 +33,26 @@
     "broker": "NH투자증권",
     "topic": "해외주식 수수료 안내",
     "captured_at": "2026-05-17T06:05:12.611243+00:00"
+  },
+  "hf_bogeumjari": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/hf_bogeumjari.png",
+    "source_url": "https://www.hf.go.kr/ko/sub01/sub01_01_01.do",
+    "broker": "한국주택금융공사",
+    "topic": "보금자리론 상품 소개",
+    "captured_at": "2026-05-17T06:19:53.903806+00:00"
+  },
+  "fund_didimdol": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/fund_didimdol.png",
+    "source_url": "https://nhuf.molit.go.kr/FP/FP05/FP0503/FP05030102.jsp",
+    "broker": "주택도시기금",
+    "topic": "내집마련 디딤돌대출 안내",
+    "captured_at": "2026-05-17T06:19:53.903806+00:00"
+  },
+  "fund_botomok_newlywed": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/fund_botomok_newlywed.png",
+    "source_url": "https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05020401.jsp",
+    "broker": "주택도시기금",
+    "topic": "신혼부부 버팀목 전세자금대출 안내",
+    "captured_at": "2026-05-17T06:19:53.903806+00:00"
   }
 }
