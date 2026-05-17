@@ -15,10 +15,10 @@
   },
   "kiwoom_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/kiwoom_us_fee.png",
-    "source_url": "https://www.kiwoom.com/h/help/fee/VHelpFoFeeView",
+    "source_url": "https://www.kiwoom.com/h/help/right/VHelpChargeView",
     "broker": "키움증권",
-    "topic": "해외주식 수수료 및 세금 안내",
-    "captured_at": "2026-05-17T06:08:06.619535+00:00"
+    "topic": "수수료/증거금 안내",
+    "captured_at": "2026-05-17T06:11:17.420837+00:00"
   },
   "koreainvest_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/koreainvest_us_fee.png",
