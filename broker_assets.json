@@ -1,0 +1,37 @@
+{
+  "toss_us_fee": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/toss_us_fee.png",
+    "source_url": "https://tossinvest.com/help",
+    "broker": "토스증권",
+    "topic": "해외주식 수수료 안내",
+    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+  },
+  "miraeasset_us_fee": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/miraeasset_us_fee.png",
+    "source_url": "https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1518",
+    "broker": "미래에셋증권",
+    "topic": "해외주식 수수료/환전 안내",
+    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+  },
+  "kiwoom_us_fee": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/kiwoom_us_fee.png",
+    "source_url": "https://www.kiwoom.com/h/customer/guide/VGuideOverseasFeeView",
+    "broker": "키움증권",
+    "topic": "해외주식 수수료 안내",
+    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+  },
+  "koreainvest_us_fee": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/koreainvest_us_fee.png",
+    "source_url": "https://securities.koreainvestment.com/main/customer/guide/_static/TF04ac010100.jsp",
+    "broker": "한국투자증권",
+    "topic": "해외주식 수수료 안내",
+    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+  },
+  "nh_us_fee": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/nh_us_fee.png",
+    "source_url": "https://www.nhqv.com/customer/guide/overseas_fee.jsp",
+    "broker": "NH투자증권",
+    "topic": "해외주식 수수료 안내",
+    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+  }
+}
