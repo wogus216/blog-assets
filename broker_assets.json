@@ -1,31 +1,31 @@
 {
   "toss_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/toss_us_fee.png",
-    "source_url": "https://tossinvest.com/help",
+    "source_url": "https://corp.tossinvest.com/ko/post?type=notice&id=17106&category=52",
     "broker": "토스증권",
-    "topic": "해외주식 수수료 안내",
-    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+    "topic": "미국주식 수수료율 안내",
+    "captured_at": "2026-05-17T06:08:06.619535+00:00"
   },
   "miraeasset_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/miraeasset_us_fee.png",
-    "source_url": "https://securities.miraeasset.com/bbs/board/message/list.do?categoryId=1518",
+    "source_url": "https://securities.miraeasset.com/hki/hki3098/n06.do",
     "broker": "미래에셋증권",
-    "topic": "해외주식 수수료/환전 안내",
-    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+    "topic": "해외주식 통화별 수수료/예탁금이용료",
+    "captured_at": "2026-05-17T06:08:06.619535+00:00"
   },
   "kiwoom_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/kiwoom_us_fee.png",
-    "source_url": "https://www.kiwoom.com/h/customer/guide/VGuideOverseasFeeView",
+    "source_url": "https://www.kiwoom.com/h/help/fee/VHelpFoFeeView",
     "broker": "키움증권",
-    "topic": "해외주식 수수료 안내",
-    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+    "topic": "해외주식 수수료 및 세금 안내",
+    "captured_at": "2026-05-17T06:08:06.619535+00:00"
   },
   "koreainvest_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/koreainvest_us_fee.png",
-    "source_url": "https://securities.koreainvestment.com/main/customer/guide/_static/TF04ac010100.jsp",
+    "source_url": "https://securities.koreainvestment.com/main/bond/research/_static/TF03ca050000.jsp",
     "broker": "한국투자증권",
-    "topic": "해외주식 수수료 안내",
-    "captured_at": "2026-05-17T06:00:48.652749+00:00"
+    "topic": "해외주식 매매 안내 (수수료 포함)",
+    "captured_at": "2026-05-17T06:08:06.619535+00:00"
   },
   "nh_us_fee": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/nh_us_fee.png",
