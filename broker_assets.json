@@ -54,5 +54,12 @@
     "broker": "주택도시기금",
     "topic": "신혼부부 버팀목 전세자금대출 안내",
     "captured_at": "2026-05-17T06:19:53.903806+00:00"
+  },
+  "applyhome_main": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/applyhome_main.png",
+    "source_url": "https://www.applyhome.co.kr/",
+    "broker": "청약홈",
+    "topic": "청약 신청 안내",
+    "captured_at": "2026-05-18T01:25:56.258925+00:00"
   }
 }
