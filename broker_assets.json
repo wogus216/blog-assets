@@ -61,5 +61,19 @@
     "broker": "청약홈",
     "topic": "청약 신청 안내",
     "captured_at": "2026-05-18T01:25:56.258925+00:00"
+  },
+  "adidas_kr_adizero": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/adidas_kr_adizero.png",
+    "source_url": "https://www.adidas.co.kr/adizero",
+    "broker": "adidas KR",
+    "topic": "아디제로 러닝화 라인업",
+    "captured_at": "2026-05-19T01:56:46.386739+00:00"
+  },
+  "adidas_us_ultraboost": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/adidas_us_ultraboost.png",
+    "source_url": "https://www.adidas.com/us/ultraboost",
+    "broker": "adidas US",
+    "topic": "Ultraboost lineup",
+    "captured_at": "2026-05-19T01:56:46.386739+00:00"
   }
 }
