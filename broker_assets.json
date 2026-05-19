@@ -124,5 +124,12 @@
     "broker": "StockAnalysis.com",
     "topic": "US ETF Screener",
     "captured_at": "2026-05-19T02:29:06.467770+00:00"
+  },
+  "sol_ai_semi_top2": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/sol_ai_semi_top2.png",
+    "source_url": "https://www.soletf.com/ko/fund/etf/211106",
+    "broker": "신한자산운용 SOL ETF",
+    "topic": "SOL AI반도체TOP2플러스 (0167A0) 상품 페이지",
+    "captured_at": "2026-05-19T03:59:56.142886+00:00"
   }
 }
