@@ -75,5 +75,19 @@
     "broker": "adidas US",
     "topic": "Ultraboost lineup",
     "captured_at": "2026-05-19T01:56:46.386739+00:00"
+  },
+  "musinsa_adidas_running": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/musinsa_adidas_running.png",
+    "source_url": "https://www.musinsa.com/search/goods?keyword=%EC%95%84%EB%94%94%EB%8B%A4%EC%8A%A4%20%EB%9F%AC%EB%8B%9D%ED%99%94",
+    "broker": "무신사",
+    "topic": "아디다스 러닝화 검색 결과",
+    "captured_at": "2026-05-19T01:58:07.135638+00:00"
+  },
+  "runrepeat_adidas_guide": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/runrepeat_adidas_guide.png",
+    "source_url": "https://runrepeat.com/guides/best-adidas-running-shoes",
+    "broker": "RunRepeat",
+    "topic": "Best Adidas Running Shoes 2026",
+    "captured_at": "2026-05-19T01:58:07.135638+00:00"
   }
 }
