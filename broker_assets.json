@@ -117,5 +117,12 @@
     "broker": "Investing.com",
     "topic": "US ETFs Performance",
     "captured_at": "2026-05-19T02:19:39.253467+00:00"
+  },
+  "stockanalysis_us_etfs": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/stockanalysis_us_etfs.png",
+    "source_url": "https://stockanalysis.com/etf/screener/",
+    "broker": "StockAnalysis.com",
+    "topic": "US ETF Screener",
+    "captured_at": "2026-05-19T02:29:06.467770+00:00"
   }
 }
