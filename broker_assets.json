@@ -89,5 +89,19 @@
     "broker": "RunRepeat",
     "topic": "Best Adidas Running Shoes 2026",
     "captured_at": "2026-05-19T01:58:07.135638+00:00"
+  },
+  "musinsa_nike_running": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/musinsa_nike_running.png",
+    "source_url": "https://www.musinsa.com/search/goods?keyword=%EB%82%98%EC%9D%B4%ED%82%A4%20%EB%9F%AC%EB%8B%9D%ED%99%94",
+    "broker": "무신사",
+    "topic": "나이키 러닝화 검색 결과",
+    "captured_at": "2026-05-19T02:10:54.841540+00:00"
+  },
+  "runrepeat_nike_guide": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/runrepeat_nike_guide.png",
+    "source_url": "https://runrepeat.com/guides/best-nike-running-shoes",
+    "broker": "RunRepeat",
+    "topic": "Best Nike Running Shoes 2026",
+    "captured_at": "2026-05-19T02:10:54.841540+00:00"
   }
 }
