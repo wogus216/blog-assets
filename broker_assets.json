@@ -103,5 +103,19 @@
     "broker": "RunRepeat",
     "topic": "Best Nike Running Shoes 2026",
     "captured_at": "2026-05-19T02:10:54.841540+00:00"
+  },
+  "naver_etf_main": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/naver_etf_main.png",
+    "source_url": "https://finance.naver.com/sise/etf.naver",
+    "broker": "네이버 금융",
+    "topic": "국내 ETF 시세",
+    "captured_at": "2026-05-19T02:19:39.253467+00:00"
+  },
+  "investing_us_etfs": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/investing_us_etfs.png",
+    "source_url": "https://www.investing.com/etfs/usa-etfs",
+    "broker": "Investing.com",
+    "topic": "US ETFs Performance",
+    "captured_at": "2026-05-19T02:19:39.253467+00:00"
   }
 }
