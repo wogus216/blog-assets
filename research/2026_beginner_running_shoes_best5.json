@@ -1,0 +1,144 @@
+{
+  "domain": "running_shoes",
+  "topic": "2026 입문자 러닝화 BEST 5",
+  "last_updated": "2026-05-24",
+  "shoes": [
+    {
+      "brand": "Nike",
+      "model": "Pegasus 41",
+      "category": "데일리 트레이닝",
+      "weight_g": 286,
+      "drop_mm": 10,
+      "stack_mm": 33,
+      "price_krw": 159000,
+      "release_year": 2024,
+      "midsole": "ReactX 폼 + Air Zoom 유닛",
+      "best_for": ["입문자", "데일리 조깅", "5~10km"],
+      "pros": ["내구성 좋음", "다용도", "가격대비 무난"],
+      "cons": ["무게가 가벼운 편은 아님", "쿠셔닝이 푹신하진 않음"],
+      "source": {
+        "title": "Nike Pegasus 41 공식 페이지",
+        "url": "https://www.nike.com/kr/t/pegasus-41-mens-road-running-shoes",
+        "accessed_at": "2026-05-24",
+        "publisher": "Nike Korea"
+      }
+    },
+    {
+      "brand": "Asics",
+      "model": "Novablast 4",
+      "category": "데일리 트레이닝",
+      "weight_g": 257,
+      "drop_mm": 8,
+      "stack_mm": 41.5,
+      "price_krw": 169000,
+      "release_year": 2024,
+      "midsole": "FF BLAST PLUS ECO",
+      "best_for": ["입문자", "장거리 조깅", "쿠셔닝 선호"],
+      "pros": ["바운스 좋음", "착화감 부드러움", "가벼운 편"],
+      "cons": ["내구성이 페가수스보다 낮음", "발볼 좁다는 평"],
+      "source": {
+        "title": "ASICS Novablast 4 공식",
+        "url": "https://www.asics.com/kr/ko-kr/novablast-4/",
+        "accessed_at": "2026-05-24",
+        "publisher": "ASICS Korea"
+      }
+    },
+    {
+      "brand": "Hoka",
+      "model": "Clifton 9",
+      "category": "회복주 / 데일리",
+      "weight_g": 248,
+      "drop_mm": 5,
+      "stack_mm": 32,
+      "price_krw": 199000,
+      "release_year": 2023,
+      "midsole": "CMEVA 폼",
+      "best_for": ["입문자", "관절 부담 줄이고 싶은 러너", "회복 주행"],
+      "pros": ["가벼움", "두꺼운 쿠셔닝", "롤링 자연스러움"],
+      "cons": ["낮은 드롭 적응 필요", "내구성 보통"],
+      "source": {
+        "title": "HOKA Clifton 9 공식",
+        "url": "https://www.hoka.com/kr/clifton-9.html",
+        "accessed_at": "2026-05-24",
+        "publisher": "HOKA Korea"
+      }
+    },
+    {
+      "brand": "Brooks",
+      "model": "Ghost 16",
+      "category": "데일리 트레이닝",
+      "weight_g": 269,
+      "drop_mm": 12,
+      "stack_mm": 35,
+      "price_krw": 179000,
+      "release_year": 2024,
+      "midsole": "DNA LOFT v3 (나이트로 인퓨즈)",
+      "best_for": ["입문자", "안정성 중시", "주 3~4회 러닝"],
+      "pros": ["밸런스 좋음", "발볼 넉넉", "무난한 착화감"],
+      "cons": ["개성이 약함", "한국 매장 적음"],
+      "source": {
+        "title": "Brooks Ghost 16",
+        "url": "https://www.brooksrunning.com/en_us/ghost-16-mens-road-running-shoe/110432.html",
+        "accessed_at": "2026-05-24",
+        "publisher": "Brooks Running"
+      }
+    },
+    {
+      "brand": "New Balance",
+      "model": "Fresh Foam X 1080v13",
+      "category": "프리미엄 데일리",
+      "weight_g": 286,
+      "drop_mm": 6,
+      "stack_mm": 38,
+      "price_krw": 219000,
+      "release_year": 2024,
+      "midsole": "Fresh Foam X",
+      "best_for": ["입문자~중급자", "긴 거리 편안함 우선", "통근 겸용"],
+      "pros": ["고급스러운 쿠셔닝", "스타일 좋음", "내구성 우수"],
+      "cons": ["가격 비쌈", "무게 있음"],
+      "source": {
+        "title": "New Balance Fresh Foam X 1080v13",
+        "url": "https://www.nbkorea.com/products/M1080N13",
+        "accessed_at": "2026-05-24",
+        "publisher": "New Balance Korea"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "입문자가 처음에 카본화부터 사도 되나요?",
+      "a": "권장하지 않습니다. 카본 플레이트는 일정 페이스(보통 km당 5분 이내)에서 효율이 나오도록 설계돼 있고, 보행/조깅 페이스에서는 오히려 발목·아킬레스 부담이 큽니다. 6개월 이상 데일리 트레이닝화로 기초 체력을 쌓은 뒤 도입하는 게 안전합니다."
+    },
+    {
+      "q": "드롭(drop)이 뭐고 입문자는 몇 mm가 좋나요?",
+      "a": "드롭은 뒤꿈치 두께와 앞꿈치 두께의 차이입니다. 입문자는 8~12mm 사이가 무난합니다. Hoka Clifton 9처럼 5mm 이하는 종아리·아킬레스에 부담을 더 주므로 적응 기간이 필요합니다."
+    },
+    {
+      "q": "러닝화 수명은 얼마나 되나요?",
+      "a": "일반적으로 600~800km 정도가 권장 교체 시점입니다. 주 3회 5km씩 뛴다고 가정하면 약 12~18개월입니다. 미드솔이 비대칭으로 무너지거나 무릎 통증이 생기면 거리에 관계없이 교체를 고려하세요."
+    },
+    {
+      "q": "사이즈는 평소 신는 것과 같게 사면 되나요?",
+      "a": "러닝화는 평소 신발보다 0.5~1cm 크게 신는 것이 일반적입니다. 장거리를 뛰면 발이 붓고 앞꿈치가 신발 끝에 닿으면 발톱이 검게 변하는(black toenail) 손상이 생깁니다."
+    }
+  ],
+  "sources": [
+    {
+      "title": "World Athletics 신발 규정 2024",
+      "url": "https://www.worldathletics.org/about-iaaf/documents/book-of-rules",
+      "accessed_at": "2026-05-24",
+      "publisher": "World Athletics"
+    },
+    {
+      "title": "Runner's World — 2024 Best Running Shoes for Beginners",
+      "url": "https://www.runnersworld.com/gear/a20865505/best-running-shoes-for-beginners/",
+      "accessed_at": "2026-05-24",
+      "publisher": "Runner's World"
+    }
+  ],
+  "extra": {
+    "_note": "샘플 데이터입니다. 발행 전 각 모델의 공식 페이지에서 스펙/가격을 재확인하세요.",
+    "target_keyword": "입문자 러닝화 추천",
+    "secondary_keywords": ["첫 러닝화", "초보 러닝화", "2026 러닝화"]
+  }
+}

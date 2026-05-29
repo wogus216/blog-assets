@@ -1,0 +1,57 @@
+{
+  "domain": "apartment_subscription",
+  "topic": "신혼희망타운 자격 완전정리 2026 — 소득·자산·청약통장 기준",
+  "last_updated": "2026-05-25",
+  "apartments": [
+    {
+      "name": "TODO 단지명 (예: 별내 퍼스트포레)",
+      "location": "TODO 위치 (예: 경기도 남양주시 별내동)",
+      "supply_type": "TODO 공급유형 (공공분양 / 민간분양 / 신혼희망타운 / 특별공급 / 무순위)",
+      "total_units": 0,
+      "available_units": 0,
+      "sizes_m2": [],
+      "price_min_krw": 0,
+      "price_max_krw": 0,
+      "application_start": "YYYY-MM-DD HH:MM",
+      "application_end": "YYYY-MM-DD HH:MM",
+      "announcement_date": "YYYY-MM-DD",
+      "contract_date": "YYYY-MM-DD",
+      "eligibility": [
+        "TODO 자격 요건 1 (예: 수도권 거주 무주택 세대구성원)",
+        "TODO 자격 요건 2"
+      ],
+      "application_url": "https://www.applyhome.co.kr/TODO",
+      "official_notice_url": "https://TODO/공고문.pdf",
+      "floor_plan_url": "https://TODO/평면도",
+      "map_url": "https://TODO/배치도",
+      "source": {
+        "title": "TODO 공식 공고 페이지 제목",
+        "url": "https://TODO",
+        "accessed_at": "2026-05-25",
+        "publisher": "청약홈 / LH / SH / 시행사 등"
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "TODO 자주 묻는 질문 (예: 무순위와 줍줍 차이?)",
+      "a": "TODO 답변. 가능한 한 공식 출처(청약홈/LH) 의 정의 인용."
+    }
+  ],
+  "sources": [
+    {
+      "title": "청약홈 메인",
+      "url": "https://www.applyhome.co.kr/",
+      "accessed_at": "2026-05-25",
+      "publisher": "한국부동산원"
+    }
+  ],
+  "extra": {
+    "_note": "YMYL 콘텐츠입니다. 모든 수치/일정/자격은 공고문 기준이어야 하고, 발행 전에 공식 페이지에서 한 번 더 확인하세요.",
+    "target_keyword": "TODO 메인 검색 키워드 (예: 별내 퍼스트포레 청약)",
+    "secondary_keywords": [
+      "TODO 단지명 + 분양가",
+      "TODO 단지명 + 평면도"
+    ]
+  }
+}
