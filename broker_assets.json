@@ -208,5 +208,19 @@
     "broker": "삼성자산운용 KODEX",
     "topic": "KODEX AI반도체TOP2플러스 (395160) 상품 페이지",
     "captured_at": "2026-06-02T01:24:03.331744+00:00"
+  },
+  "kodex_200_weekly_coveredcall": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/kodex_200_weekly_coveredcall.png",
+    "source_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFP4",
+    "broker": "삼성자산운용 KODEX",
+    "topic": "KODEX 200타겟위클리커버드콜 (498400) 상품 페이지",
+    "captured_at": "2026-06-02T01:49:43.028547+00:00"
+  },
+  "tiger_us_nasdaq100_daily_coveredcall": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/tiger_us_nasdaq100_daily_coveredcall.png",
+    "source_url": "https://investments.miraeasset.com/tigeretf/ko/product/search/detail/index.do?ksdFund=KR7486290000",
+    "broker": "미래에셋 TIGER",
+    "topic": "TIGER 미국나스닥100타겟데일리커버드콜 상품 페이지",
+    "captured_at": "2026-06-02T01:49:43.028547+00:00"
   }
 }
