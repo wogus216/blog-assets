@@ -201,5 +201,12 @@
     "broker": "LH",
     "topic": "서울오류 행복주택 팜플렛 p10 — 상담·현장접수·계약 장소 안내",
     "captured_at": "2026-05-21T16:19:37.608346+00:00"
+  },
+  "kodex_ai_semi_top2": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/kodex_ai_semi_top2.png",
+    "source_url": "https://www.samsungfund.com/etf/product/view.do?id=2ETFE9",
+    "broker": "삼성자산운용 KODEX",
+    "topic": "KODEX AI반도체TOP2플러스 (395160) 상품 페이지",
+    "captured_at": "2026-06-02T01:24:03.331744+00:00"
   }
 }
