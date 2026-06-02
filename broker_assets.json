@@ -236,5 +236,12 @@
     "broker": "청약홈",
     "topic": "무순위 청약 자격요건 안내",
     "captured_at": "2026-06-02T02:20:48.218299+00:00"
+  },
+  "hoban_pungmu2_official": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/hoban_pungmu2_official.png",
+    "source_url": "https://www.hobansummit-pungmu2.com/",
+    "broker": "호반써밋 풍무Ⅱ",
+    "topic": "호반써밋 풍무Ⅱ 공식 안내 페이지",
+    "captured_at": "2026-06-02T02:44:42.169138+00:00"
   }
 }
