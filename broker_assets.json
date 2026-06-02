@@ -257,5 +257,12 @@
     "broker": "마라톤GO",
     "topic": "국내 마라톤 대회 일정",
     "captured_at": "2026-06-02T02:50:04.788324+00:00"
+  },
+  "runable_main": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/runable_main.png",
+    "source_url": "https://runable.me/",
+    "broker": "러너블(Runnable)",
+    "topic": "가민 런 코리아 신청 플랫폼",
+    "captured_at": "2026-06-02T03:08:25.940337+00:00"
   }
 }
