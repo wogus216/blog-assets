@@ -243,5 +243,19 @@
     "broker": "호반써밋 풍무Ⅱ",
     "topic": "호반써밋 풍무Ⅱ 공식 안내 페이지",
     "captured_at": "2026-06-02T02:44:42.169138+00:00"
+  },
+  "seonsa_marathon_official": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/seonsa_marathon_official.png",
+    "source_url": "http://www.gomarathon.co.kr/",
+    "broker": "선사마라톤",
+    "topic": "제20회 선사마라톤축제 공식 홈페이지",
+    "captured_at": "2026-06-02T02:50:04.788324+00:00"
+  },
+  "marathongo_domestic": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/marathongo_domestic.png",
+    "source_url": "https://marathongo.co.kr/raceSchedule/domestic",
+    "broker": "마라톤GO",
+    "topic": "국내 마라톤 대회 일정",
+    "captured_at": "2026-06-02T02:50:04.788324+00:00"
   }
 }
