@@ -285,5 +285,12 @@
     "broker": "호갱노노",
     "topic": "전국 분양 정보",
     "captured_at": "2026-06-02T03:59:29.892886+00:00"
+  },
+  "asics_novablast6": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/asics_novablast6.png",
+    "source_url": "https://www.asics.com/kr/ko-kr/novablast-6/",
+    "broker": "ASICS",
+    "topic": "노바블라스트 6 공식 제품 페이지",
+    "captured_at": "2026-06-02T15:53:43.363252+00:00"
   }
 }
