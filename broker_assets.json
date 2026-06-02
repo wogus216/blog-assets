@@ -264,5 +264,26 @@
     "broker": "러너블(Runnable)",
     "topic": "가민 런 코리아 신청 플랫폼",
     "captured_at": "2026-06-02T03:08:25.940337+00:00"
+  },
+  "bunyangi_main": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/bunyangi_main.png",
+    "source_url": "https://www.bunyangi.com/",
+    "broker": "분양알리미",
+    "topic": "전국 신규 분양·청약 일정",
+    "captured_at": "2026-06-02T03:59:29.892886+00:00"
+  },
+  "asil_main": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/asil_main.png",
+    "source_url": "https://asil.kr/",
+    "broker": "아실",
+    "topic": "아파트 시세·매물 분석",
+    "captured_at": "2026-06-02T03:59:29.892886+00:00"
+  },
+  "hogangnono_offer": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/hogangnono_offer.png",
+    "source_url": "https://hogangnono.com/offer/commercial?regionCode=all",
+    "broker": "호갱노노",
+    "topic": "전국 분양 정보",
+    "captured_at": "2026-06-02T03:59:29.892886+00:00"
   }
 }
