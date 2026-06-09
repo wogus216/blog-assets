@@ -292,5 +292,26 @@
     "broker": "ASICS",
     "topic": "노바블라스트 6 공식 제품 페이지",
     "captured_at": "2026-06-02T15:53:43.363252+00:00"
+  },
+  "sh_happy_2026_1st_cover": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/sh_happy_2026_1st_cover.png",
+    "source_url": "https://www.i-sh.co.kr",
+    "broker": "서울주택도시개발공사(SH)",
+    "topic": "2026년 1차 행복주택 입주자 모집공고 (절차·일정)",
+    "captured_at": "2026-06-09"
+  },
+  "sh_happy_2026_1st_newsupply": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/sh_happy_2026_1st_newsupply.png",
+    "source_url": "https://www.i-sh.co.kr",
+    "broker": "서울주택도시개발공사(SH)",
+    "topic": "2026년 1차 행복주택 신규 공급 55호 현황",
+    "captured_at": "2026-06-09"
+  },
+  "sh_happy_2026_1st_resupply": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/sh_happy_2026_1st_resupply.png",
+    "source_url": "https://www.i-sh.co.kr",
+    "broker": "서울주택도시개발공사(SH)",
+    "topic": "2026년 1차 행복주택 재공급 단지 현황(강남·강동 등)",
+    "captured_at": "2026-06-09"
   }
 }
