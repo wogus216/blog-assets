@@ -320,5 +320,14 @@
     "broker": "Nike 코리아",
     "topic": "페가수스 42 공식 제품 페이지",
     "captured_at": "2026-06-09T05:13:52.879461+00:00"
+  },
+  "shoe_pegasus_series": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/shoe_pegasus_series.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nike_Zoom_Pegasus_38_running_shoe.jpg",
+    "broker": "Wikimedia Commons",
+    "topic": "나이키 줌 페가수스 (시리즈 실물)",
+    "source_label": "원본",
+    "date_kind": "이미지",
+    "captured_at": "2026-06-09T07:37:17.884287+00:00"
   }
 }
