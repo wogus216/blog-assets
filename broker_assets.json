@@ -340,13 +340,13 @@
     "captured_at": "2026-06-10T07:26:21.428203+00:00"
   },
   "aircon_outdoor": {
-    "raw_url": "https://images.unsplash.com/photo-1718203862467-c33159fdc504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMG91dGRvb3IlMjB1bml0fGVufDB8MHx8fDE3ODEwNzYzODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source_url": "https://unsplash.com/photos/a-white-air-conditioner-sitting-on-top-of-a-brick-wall-JsPkVrHMQoo?utm_source=blog_auto&utm_medium=referral",
-    "broker": "Photo by Everett Pachmann",
+    "raw_url": "https://images.unsplash.com/photo-1758798157512-f0a864c696c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwyfHxodmFjJTIwY29uZGVuc2VyJTIwb3V0ZG9vciUyMHVuaXR8ZW58MHwwfHx8MTc4MTA3NjQyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/close-up-of-an-air-conditioning-unit-on-a-sunny-day-Al9lWh3XKGM?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Khanh Do",
     "topic": "에어컨 실외기",
     "source_label": "on Unsplash",
     "date_kind": "사진",
-    "captured_at": "2026-06-10T07:26:25.113179+00:00"
+    "captured_at": "2026-06-10T07:27:06.156491+00:00"
   },
   "aircon_remote": {
     "raw_url": "https://images.unsplash.com/photo-1775224021126-90ac3110f332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJlbW90ZSUyMGNvbnRyb2wlMjBoYW5kfGVufDB8MHx8fDE3ODEwNzYzODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
