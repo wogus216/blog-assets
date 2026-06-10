@@ -347,5 +347,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-10T07:26:25.113179+00:00"
+  },
+  "aircon_remote": {
+    "raw_url": "https://images.unsplash.com/photo-1775224021126-90ac3110f332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJlbW90ZSUyMGNvbnRyb2wlMjBoYW5kfGVufDB8MHx8fDE3ODEwNzYzODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-holding-a-drone-controller-and-a-screen-0WdkbwNPxps?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Ed Wingate",
+    "topic": "에어컨 리모컨",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-10T07:26:28.822580+00:00"
   }
 }
