@@ -365,5 +365,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-10T07:26:46.468020+00:00"
+  },
+  "travelcard_money": {
+    "raw_url": "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxmb3JlaWduJTIwY3VycmVuY3klMjBtb25leSUyMGV4Y2hhbmdlfGVufDB8MHx8fDE3ODEwNzY0MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/10-and-one-10-us-dollar-bill-SAYzxuS1O3M?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Jason Leung",
+    "topic": "환전",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-10T07:26:49.993766+00:00"
   }
 }
