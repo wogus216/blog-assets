@@ -473,5 +473,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T01:48:41.330303+00:00"
+  },
+  "stocks_active_header": {
+    "raw_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGRhdGElMjBhbmFseXNpcyUyMGNoYXJ0JTIwc2NyZWVufGVufDB8MHx8fDE3ODEyMzAyMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/stock-market-candlestick-chart-on-dark-screen-fiXLQXAhCfk?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Maxim Hopman",
+    "topic": "액티브 ETF",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T02:10:06.639447+00:00"
   }
 }
