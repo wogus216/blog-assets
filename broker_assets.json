@@ -518,5 +518,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T05:21:07.262861+00:00"
+  },
+  "stocks_flow_compare": {
+    "raw_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxzZW1pY29uZHVjdG9yJTIwY2hpcCUyMHRlY2hub2xvZ3klMjBpbnZlc3RtZW50fGVufDB8MHx8fDE3ODEyNDE2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/macro-photography-of-black-circuit-board-FO7JIlwjOtU?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Alexandre Debiève",
+    "topic": "반도체 ETF 자금",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T05:21:24.156886+00:00"
   }
 }
