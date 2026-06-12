@@ -527,5 +527,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T05:21:24.156886+00:00"
+  },
+  "wc_header": {
+    "raw_url": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBmb290YmFsbCUyMHN0YWRpdW0lMjB3b3JsZCUyMGN1cCUyMGNyb3dkfGVufDB8MHx8fDE3ODEyNDQ4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/soccer-field-qCrKTET_09o?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Vienna Reyes",
+    "topic": "2026 월드컵 한국 일정",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T06:14:34.303924+00:00"
   }
 }
