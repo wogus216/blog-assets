@@ -428,5 +428,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T01:10:36.488381+00:00"
+  },
+  "stocks_schd_pension": {
+    "raw_url": "https://images.unsplash.com/photo-1607863680198-23d4b2565df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxyZXRpcmVtZW50JTIwc2F2aW5ncyUyMHBlbnNpb24lMjBmdW5kJTIwbW9uZXklMjBwbGFufGVufDB8MHx8fDE3ODEyMjY2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/pink-pig-coin-bank-on-brown-wooden-table-5OUMf1Mr5pU?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Andre Taissin",
+    "topic": "연금 절세계좌",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T01:10:42.045218+00:00"
   }
 }
