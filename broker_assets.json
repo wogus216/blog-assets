@@ -482,5 +482,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T02:10:06.639447+00:00"
+  },
+  "stocks_active_mgr": {
+    "raw_url": "https://images.unsplash.com/photo-1559067096-49ebca3406aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxmdW5kJTIwbWFuYWdlciUyMHN0cmF0ZWd5JTIwaW52ZXN0bWVudCUyMGRlY2lzaW9ufGVufDB8MHx8fDE3ODEyMzAyMDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/investment-scrabble-text-OlSGcrLSYkw?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Precondo CA",
+    "topic": "액티브 운용 전략",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T02:10:10.272209+00:00"
   }
 }
