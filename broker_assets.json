@@ -536,5 +536,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T06:14:34.303924+00:00"
+  },
+  "wc_match": {
+    "raw_url": "https://images.unsplash.com/photo-1486286701208-1d58e9338013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBiYWxsJTIwcGl0Y2glMjBnb2FsJTIwZm9vdGJhbGx8ZW58MHwwfHx8MTc4MTI0NDg3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-and-gray-adidas-soccerball-on-lawn-grass-qWs_Wa1JrKM?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Peter Glaser",
+    "topic": "월드컵 경기",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T06:14:39.171837+00:00"
   }
 }
