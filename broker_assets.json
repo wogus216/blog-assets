@@ -349,13 +349,13 @@
     "captured_at": "2026-06-10T07:27:06.156491+00:00"
   },
   "aircon_remote": {
-    "raw_url": "https://images.unsplash.com/photo-1775224021126-90ac3110f332?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJlbW90ZSUyMGNvbnRyb2wlMjBoYW5kfGVufDB8MHx8fDE3ODEwNzYzODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source_url": "https://unsplash.com/photos/person-holding-a-drone-controller-and-a-screen-0WdkbwNPxps?utm_source=blog_auto&utm_medium=referral",
-    "broker": "Photo by Ed Wingate",
-    "topic": "에어컨 리모컨",
+    "raw_url": "https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJlbW90ZSUyMGNvbnRyb2wlMjB3YWxsJTIwdGhlcm1vc3RhdHxlbnwwfDB8fHwxNzgxMzA1ODAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/gray-nest-thermostat-displaying-at-63-RFAHj4tI37Y?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Dan LeFebvre",
+    "topic": "에어컨 리모컨 조작",
     "source_label": "on Unsplash",
     "date_kind": "사진",
-    "captured_at": "2026-06-10T07:26:28.822580+00:00"
+    "captured_at": "2026-06-12T23:10:03.106980+00:00"
   },
   "travelcard_header": {
     "raw_url": "https://images.unsplash.com/photo-1532968899863-5b52ef155913?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxjcmVkaXQlMjBjYXJkJTIwdHJhdmVsJTIwYWlycG9ydHxlbnwwfDB8fHwxNzgxMDc2NDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
