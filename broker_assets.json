@@ -509,5 +509,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T04:38:10.829746+00:00"
+  },
+  "stocks_flow_header": {
+    "raw_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGNoYXJ0JTIwcmVkJTIwZGVjbGluZSUyMHZvbGF0aWxpdHl8ZW58MHwwfHx8MTc4MTI0MTY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/screen-showing-bitcoin-trading-chart-N__BnvQ_w18?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Nick Chong",
+    "topic": "ETF 자금유입 급락장",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T05:21:07.262861+00:00"
   }
 }
