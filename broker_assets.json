@@ -446,5 +446,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T01:28:31.443096+00:00"
+  },
+  "money_loan_dsr": {
+    "raw_url": "https://images.unsplash.com/photo-1521791055366-0d553872125f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxjYWxjdWxhdG9yJTIwaW50ZXJlc3QlMjByYXRlJTIwZG9jdW1lbnQlMjBzaWduaW5nfGVufDB8MHx8fDE3ODEyMjc3MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-writing-on-white-paper-GJao3ZTX9gU?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Cytonn Photography",
+    "topic": "DSR 한도 계산",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-12T01:28:38.048785+00:00"
   }
 }
