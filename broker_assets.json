@@ -599,5 +599,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-13T03:37:05.532644+00:00"
+  },
+  "running_shoe_header": {
+    "raw_url": "https://images.unsplash.com/photo-1765914448331-206c5441c2f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxydW5uaW5nJTIwc2hvZXMlMjByb2FkJTIwcGF2ZW1lbnQlMjBydW5uZXJ8ZW58MHwwfHx8MTc4MTMyNTY5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-runners-neon-green-shoe-on-a-dark-surface-ktJWzj8uHms?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Taylor Friehl",
+    "topic": "러닝화",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-13T04:41:36.588506+00:00"
   }
 }
