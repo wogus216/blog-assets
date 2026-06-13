@@ -545,5 +545,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-12T06:14:39.171837+00:00"
+  },
+  "washer_header": {
+    "raw_url": "https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHx3YXNoaW5nJTIwbWFjaGluZSUyMGxhdW5kcnklMjByb29tJTIwbW9kZXJufGVufDB8MHx8fDE3ODEzMTUxMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-washer-and-dryer-in-a-room-23coWmkTNSg?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by PlanetCare",
+    "topic": "세탁기",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-13T01:45:37.512556+00:00"
   }
 }
