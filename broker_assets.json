@@ -572,5 +572,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-13T02:06:00.510525+00:00"
+  },
+  "fridge_inside": {
+    "raw_url": "https://images.unsplash.com/photo-1606859191214-25806e8e2423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxvcGVuJTIwcmVmcmlnZXJhdG9yJTIwaW5zaWRlJTIwZm9vZCUyMGZyZXNofGVufDB8MHx8fDE3ODEzMTYzNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/green-and-pink-plastic-container-AEU9UZstCfs?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Ello",
+    "topic": "냉장고 내부",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-13T02:06:04.616690+00:00"
   }
 }
