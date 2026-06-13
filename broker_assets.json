@@ -608,5 +608,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-13T04:41:36.588506+00:00"
+  },
+  "running_shoe_detail": {
+    "raw_url": "https://images.unsplash.com/photo-1587587448924-b5a1db520d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwyfHxydW5uaW5nJTIwc2hvZXMlMjBwYWlyfGVufDB8MHx8fDE3ODEzMjU3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-wearing-blue-and-white-sneakers-8Tx1FOj8xJc?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Dulcey Lima",
+    "topic": "러닝화",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-13T04:42:25.032659+00:00"
   }
 }
