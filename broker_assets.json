@@ -590,5 +590,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-13T03:37:01.994033+00:00"
+  },
+  "airline_cabin": {
+    "raw_url": "https://images.unsplash.com/photo-1588861452134-b67de4c19739?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMGNhYmluJTIwaW50ZXJpb3IlMjBzZWF0cyUyMGJ1c2luZXNzJTIwY2xhc3N8ZW58MHwwfHx8MTc4MTMyMTgyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/blue-and-red-leather-seat-7r8p6tFw3hs?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by reisetopia",
+    "topic": "항공기 좌석",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-13T03:37:05.532644+00:00"
   }
 }
