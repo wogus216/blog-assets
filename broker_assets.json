@@ -707,5 +707,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-22T14:11:27.078324+00:00"
+  },
+  "airline_merge_header": {
+    "raw_url": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHNreSUyMHRyYXZlbHxlbnwwfDB8fHwxNzgyMTY2OTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-airplane-under-blue-sky-during-daytime-91ykdj2WQeg?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by alexey starki",
+    "topic": "항공 마일리지",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-22T22:22:04.099044+00:00"
   }
 }
