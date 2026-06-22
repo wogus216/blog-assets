@@ -716,5 +716,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-22T22:22:04.099044+00:00"
+  },
+  "airline_merge_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1504717680241-00f3d96a933d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwb3J0JTIwYWlycGxhbmUlMjB3aW5kb3d8ZW58MHwwfHx8MTc4MjE2NjkyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-truck-beside-white-airplane-iUVqTyyRQGc?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Red Dot",
+    "topic": "항공권",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-22T22:22:07.244786+00:00"
   }
 }
