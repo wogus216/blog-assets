@@ -734,5 +734,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-22T23:30:48.004399+00:00"
+  },
+  "aircon_cool_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1718203862467-c33159fdc504?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMG91dGRvb3IlMjB1bml0fGVufDB8MHx8fDE3ODIxNzEwNTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-white-air-conditioner-sitting-on-top-of-a-brick-wall-JsPkVrHMQoo?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Everett Pachmann",
+    "topic": "실외기",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-22T23:30:51.397463+00:00"
   }
 }
