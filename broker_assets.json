@@ -725,5 +725,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-22T22:22:07.244786+00:00"
+  },
+  "aircon_cool_header": {
+    "raw_url": "https://images.unsplash.com/photo-1667983453881-4992fe86ab1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJvb218ZW58MHwwfHx8MTc4MjE3MTA0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-wall-with-a-few-doors-994AH40vmVs?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Kien Nguyen",
+    "topic": "에어컨",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-22T23:30:48.004399+00:00"
   }
 }
