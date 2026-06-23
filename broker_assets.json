@@ -770,5 +770,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-23T09:13:47.371681+00:00"
+  },
+  "dehum_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1511634829096-045a111727eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxyYWlueSUyMHdpbmRvdyUyMGh1bWlkaXR5fGVufDB8MHx8fDE3ODIyMDYwMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-wet-window-with-a-traffic-light-on-it-JgDUVGAXsso?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by C. G.",
+    "topic": "장마 습기",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-23T09:13:50.391137+00:00"
   }
 }
