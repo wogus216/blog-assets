@@ -752,5 +752,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-23T09:07:16.393033+00:00"
+  },
+  "mileage_card_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHx3YWxsZXQlMjBtb25leSUyMHRyYXZlbHxlbnwwfDB8fHwxNzgyMjA1NjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-getting-1-us-dollar-banknote-in-wallet-fJTqyZMOh18?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Allef Vinicius",
+    "topic": "카드 소비",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-23T09:07:20.012547+00:00"
   }
 }
