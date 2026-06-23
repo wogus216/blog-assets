@@ -761,5 +761,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-23T09:07:20.012547+00:00"
+  },
+  "dehum_header": {
+    "raw_url": "https://images.unsplash.com/photo-1436473849883-bb3464c23e93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxkZWh1bWlkaWZpZXIlMjBob21lJTIwYXBwbGlhbmNlfGVufDB8MHx8fDE3ODIyMDYwMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/rectangular-white-device-_Ib-JulMgzo?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Álvaro Bernal",
+    "topic": "제습기",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-23T09:13:47.371681+00:00"
   }
 }
