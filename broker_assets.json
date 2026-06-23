@@ -743,5 +743,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-22T23:30:51.397463+00:00"
+  },
+  "mileage_card_header": {
+    "raw_url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxjcmVkaXQlMjBjYXJkJTIwcGF5bWVudHxlbnwwfDB8fHwxNzgyMjA1NjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-using-laptop-computer-holding-card-Q59HmzK38eQ?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by rupixen",
+    "topic": "마일리지 카드",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-23T09:07:16.393033+00:00"
   }
 }
