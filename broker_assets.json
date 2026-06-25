@@ -824,5 +824,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-25T14:53:44.713148+00:00"
+  },
+  "peak_flight_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1739839100790-05b972aac338?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHdpbmRvdyUyMHNlYXQlMjBjbG91ZHMlMjBza3l8ZW58MHwwfHx8MTc4MjM5OTIyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/the-wing-of-an-airplane-as-the-sun-sets-u16BDgEhQRs?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Dominic Kurniawan Suryaputra",
+    "topic": "마일리지 항공 좌석",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:53:47.538555+00:00"
   }
 }
