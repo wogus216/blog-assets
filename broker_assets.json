@@ -779,5 +779,50 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-23T09:13:50.391137+00:00"
+  },
+  "electric_header": {
+    "raw_url": "https://images.unsplash.com/photo-1762341123870-d706f257a12e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMGluZG9vciUyMGNvb2xpbmclMjBzdW1tZXJ8ZW58MHwwfHx8MTc4MjM5ODM3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-air-conditioner-unit-displaying-22-degrees-mM0vW68NY0g?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Zulfugar Karimov",
+    "topic": "여름 에어컨 냉방",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:39:40.507468+00:00"
+  },
+  "electric_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1663609476830-8c247515c1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxlbGVjdHJpY2l0eSUyMG1ldGVyJTIwZW5lcmd5JTIwY29uc3VtcHRpb258ZW58MHwwfHx8MTc4MjM5ODM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/text-Rlq0iN1b3Lg?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Arthur Lambillotte",
+    "topic": "전기 계량기·전기요금",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:39:42.395393+00:00"
+  },
+  "airfare_header": {
+    "raw_url": "https://images.unsplash.com/photo-1530469641172-8ac15d0a7d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHdpbmRvdyUyMHZpZXclMjBjbG91ZHMlMjBza3l8ZW58MHwwfHx8MTc4MjM5ODM4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/person-taking-picture-of-plane-wings-while-flying-during-daytime-p9vr45T2scg?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Blake Guidry",
+    "topic": "항공 여행",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:39:44.462456+00:00"
+  },
+  "airfare_mid": {
+    "raw_url": "https://images.unsplash.com/photo-1653663786254-209a584479e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwb3J0JTIwZGVwYXJ0dXJlJTIwdGVybWluYWwlMjB0cmF2ZWx8ZW58MHwwfHx8MTc4MjM5ODM4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/a-sign-that-is-in-front-of-a-building-LT38Lavn8Lo?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Jametlene Reskp",
+    "topic": "공항 출발",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:39:46.456017+00:00"
+  },
+  "peak_flight_header": {
+    "raw_url": "https://images.unsplash.com/photo-1558204692-5f402fe220b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwb3J0JTIwZGVwYXJ0dXJlJTIwc3VtbWVyJTIwdHJhdmVsfGVufDB8MHx8fDE3ODIzOTkyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-airplane-parked-during-daytime-EzTGFKfEdmM?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Anna Gru",
+    "topic": "여름 성수기 공항 출국",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-25T14:53:44.713148+00:00"
   }
 }
