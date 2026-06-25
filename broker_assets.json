@@ -790,13 +790,13 @@
     "captured_at": "2026-06-25T14:53:50.357283+00:00"
   },
   "electric_mid": {
-    "raw_url": "https://images.unsplash.com/photo-1663609476830-8c247515c1db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxlbGVjdHJpY2l0eSUyMG1ldGVyJTIwZW5lcmd5JTIwY29uc3VtcHRpb258ZW58MHwwfHx8MTc4MjM5ODM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source_url": "https://unsplash.com/photos/text-Rlq0iN1b3Lg?utm_source=blog_auto&utm_medium=referral",
-    "broker": "Photo by Arthur Lambillotte",
-    "topic": "전기 계량기·전기요금",
+    "raw_url": "https://images.unsplash.com/photo-1781709253967-7dfa2b9256d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXIlMjBjb25kaXRpb25lciUyMHJlbW90ZSUyMGNvbnRyb2wlMjBoYW5kfGVufDB8MHx8fDE3ODIzOTkyMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/persons-hands-holding-a-game-controller-seen-through-a-sunroof-jK8hfMD6NFc?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Vladimir Wang",
+    "topic": "에어컨 온도 설정",
     "source_label": "on Unsplash",
     "date_kind": "사진",
-    "captured_at": "2026-06-25T14:39:42.395393+00:00"
+    "captured_at": "2026-06-25T14:53:53.639232+00:00"
   },
   "airfare_header": {
     "raw_url": "https://images.unsplash.com/photo-1530469641172-8ac15d0a7d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxhaXJwbGFuZSUyMHdpbmRvdyUyMHZpZXclMjBjbG91ZHMlMjBza3l8ZW58MHwwfHx8MTc4MjM5ODM4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
