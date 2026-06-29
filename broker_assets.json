@@ -887,5 +887,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-29T13:13:18.783047+00:00"
+  },
+  "fan_circulator_hero": {
+    "raw_url": "https://images.unsplash.com/photo-1601084195907-44baaa49dabd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHxlbGVjdHJpYyUyMGZhbiUyMGNpcmN1bGF0b3IlMjBsaXZpbmclMjByb29tJTIwc3VtbWVyfGVufDB8MHx8fDE3ODI3Mzg4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-stand-fan-turned-on-in-room-MvCW2PE9Tbg?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by Delaney Van",
+    "topic": "선풍기 서큘레이터 히어로",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-29T13:13:26.096705+00:00"
   }
 }
