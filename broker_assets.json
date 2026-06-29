@@ -869,5 +869,14 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-06-29T05:52:22.142481+00:00"
+  },
+  "lg_toploading_hero": {
+    "raw_url": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NzI4ODV8MHwxfHNlYXJjaHwxfHx0b3AlMjBsb2FkJTIwd2FzaGluZyUyMG1hY2hpbmUlMjBsYXVuZHJ5fGVufDB8MHx8fDE3ODI3MTMwNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source_url": "https://unsplash.com/photos/white-front-load-washing-machine-5cpBWEl6y6c?utm_source=blog_auto&utm_medium=referral",
+    "broker": "Photo by PlanetCare",
+    "topic": "LG 통돌이 세탁기 히어로",
+    "source_label": "on Unsplash",
+    "date_kind": "사진",
+    "captured_at": "2026-06-29T06:04:03.736764+00:00"
   }
 }
