@@ -898,11 +898,13 @@
     "captured_at": "2026-06-29T13:13:26.096705+00:00"
   },
   "lg_dryer_hero": {
-    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/lg_dryer_hero.png",
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/lg_dryer_hero.jpg",
     "source_url": "https://www.lge.co.kr/dryers/rg20wn",
-    "broker": "LG전자",
-    "topic": "LG 트롬 오브제컬렉션 건조기 (공식)",
-    "captured_at": "2026-07-18T04:03:27.581911+00:00"
+    "broker": "LG전자 공식",
+    "topic": "LG 트롬 건조기",
+    "source_label": "원본",
+    "date_kind": "이미지",
+    "captured_at": "2026-07-18T04:06:04.060832+00:00"
   },
   "lg_dryer_oe": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/lg_dryer_oe.png",
