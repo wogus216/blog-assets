@@ -903,5 +903,12 @@
     "broker": "LG전자",
     "topic": "LG 트롬 오브제컬렉션 건조기 (공식)",
     "captured_at": "2026-07-18T04:03:27.581911+00:00"
+  },
+  "lg_dryer_oe": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/lg_dryer_oe.png",
+    "source_url": "https://www.lge.co.kr/dryers/rg18wnw",
+    "broker": "LG전자",
+    "topic": "LG 트롬 건조기 듀얼인버터 히트펌프 (공식)",
+    "captured_at": "2026-07-18T04:04:07.588412+00:00"
   }
 }
