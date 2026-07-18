@@ -914,5 +914,14 @@
     "source_label": "원본",
     "date_kind": "이미지",
     "captured_at": "2026-07-18T04:07:23.406402+00:00"
+  },
+  "induction_hero": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/induction_hero.jpg",
+    "source_url": "https://www.lge.co.kr/electric-ranges/bei3csqt",
+    "broker": "LG전자 공식",
+    "topic": "LG 디오스 인덕션 전기레인지",
+    "source_label": "원본",
+    "date_kind": "이미지",
+    "captured_at": "2026-07-18T04:25:31.956872+00:00"
   }
 }
