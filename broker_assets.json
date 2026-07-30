@@ -935,9 +935,9 @@
   },
   "touchen_mac_remove": {
     "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/touchen_mac_remove.png",
-    "source_url": "http://faq.touchen.co.kr/page/mac_era.htm",
-    "broker": "라온시큐어 TouchEn",
-    "topic": "TouchEn key 맥용 키보드 보안 프로그램 공식 삭제 안내",
-    "captured_at": "2026-07-30T02:56:45.352920+00:00"
+    "source_url": "http://faq.touchen.co.kr/nxKey/page/damage_mac.htm",
+    "broker": "라온시큐어",
+    "topic": "TouchEn nxKey 맥 키보드보안 공식 삭제 안내",
+    "captured_at": "2026-07-30T03:12:12.924661+00:00"
   }
 }
