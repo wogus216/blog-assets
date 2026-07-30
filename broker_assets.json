@@ -939,5 +939,12 @@
     "broker": "라온시큐어",
     "topic": "TouchEn nxKey 맥 키보드보안 공식 삭제 안내",
     "captured_at": "2026-07-30T03:12:12.924661+00:00"
+  },
+  "ahnlab_astx_remove": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/ahnlab_astx_remove.png",
+    "source_url": "https://ask.ahnlab.com/hc/ko/articles/8936896988697--ASTx-AhnLab-Safe-Transaction-%EC%A0%9C%ED%92%88-%EC%82%AD%EC%A0%9C-%EB%B0%A9%EB%B2%95",
+    "broker": "안랩 ASK",
+    "topic": "ASTx(AhnLab Safe Transaction) 맥 삭제 공식 안내",
+    "captured_at": "2026-07-30T03:19:37.631305+00:00"
   }
 }
