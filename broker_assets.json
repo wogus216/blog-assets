@@ -946,5 +946,12 @@
     "broker": "안랩 ASK",
     "topic": "ASTx(AhnLab Safe Transaction) 맥 삭제 공식 안내",
     "captured_at": "2026-07-30T03:19:37.631305+00:00"
+  },
+  "carrier_service_price": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/carrier_service_price.png",
+    "source_url": "https://www.carriercs.co.kr/service_price",
+    "broker": "오텍캐리어 공식 서비스",
+    "topic": "캐리어 서비스 요금·출장비 공식 안내",
+    "captured_at": "2026-08-10T14:59:09.576665+00:00"
   }
 }
