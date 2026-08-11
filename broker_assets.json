@@ -960,5 +960,12 @@
     "broker": "오텍캐리어 공식 서비스",
     "topic": "캐리어 에어컨 자가점검 6단계 공식 안내",
     "captured_at": "2026-08-10T14:59:57.883398+00:00"
+  },
+  "korail_chuseok_notice": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/korail_chuseok_notice.png",
+    "source_url": "https://www.korail.com/ticket/guest/notice/21341",
+    "broker": "한국철도공사(코레일) 공식 공지",
+    "topic": "2025년 추석 연휴 승차권 예매 안내문(예년 일정 참고용)",
+    "captured_at": "2026-08-11T07:50:15.769149+00:00"
   }
 }
