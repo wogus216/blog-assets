@@ -1012,5 +1012,12 @@
     "source_label": "원본",
     "date_kind": "이미지",
     "captured_at": "2026-08-15T05:46:26.339331+00:00"
+  },
+  "dimchae_recall_qaid": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/dimchae_recall_qaid.png",
+    "source_url": "https://www.q-aid.co.kr/service/free/request",
+    "broker": "큐에이드(구 위니아에이드) 공식",
+    "topic": "딤채 김치냉장고 리콜(무상 안전점검) 신청 페이지 — 2005년 9월 이전 생산 모델",
+    "captured_at": "2026-09-02T21:51:00.276902+00:00"
   }
 }
