@@ -1033,5 +1033,12 @@
     "broker": "더라운지 공식",
     "topic": "국내 공항 라운지 이용권(김포 스카이허브 포함) 상품 페이지",
     "captured_at": "2026-09-03T03:59:01.919306+00:00"
+  },
+  "gimpo_biz": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/gimpo_biz.png",
+    "source_url": "https://www.airport.co.kr/gimpo/cms/frCon/index.do?MENU_ID=2690",
+    "broker": "한국공항공사 김포공항 공식",
+    "topic": "김포BIZ라운지(국제선 3층 일반구역) 요금·예약 안내",
+    "captured_at": "2026-09-03T03:59:12.525376+00:00"
   }
 }
