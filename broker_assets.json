@@ -1026,5 +1026,12 @@
     "broker": "Priority Pass 공식",
     "topic": "김포공항 국제선 스카이허브 라운지 안내(PP 이용 가능·06:30~20:00·최대 3시간)",
     "captured_at": "2026-09-03T03:58:51.604772+00:00"
+  },
+  "gimpo_thelounge": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/gimpo_thelounge.png",
+    "source_url": "https://theloungemembers.com/renew/shop/product/detail/domesticLounge",
+    "broker": "더라운지 공식",
+    "topic": "국내 공항 라운지 이용권(김포 스카이허브 포함) 상품 페이지",
+    "captured_at": "2026-09-03T03:59:01.919306+00:00"
   }
 }
