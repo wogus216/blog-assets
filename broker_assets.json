@@ -1102,5 +1102,12 @@
     "broker": "경동나비엔 나비엔하우스 공식",
     "topic": "나비엔 숙면매트 온수 자가진단 가이드 — 에러 관련 목록",
     "captured_at": "2026-09-18T16:48:06.392897+00:00"
+  },
+  "steamboy_error_codes": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/steamboy_error_codes.png",
+    "source_url": "https://ssteamboy.com/board/faq/5/#error-codes",
+    "broker": "스팀보이 공식몰 고객지원",
+    "topic": "스팀보이 온수매트 에러 표시 찾기(모델별 코드표)",
+    "captured_at": "2026-09-18T16:48:17.997066+00:00"
   }
 }
