@@ -1081,5 +1081,12 @@
     "source_label": "on Unsplash",
     "date_kind": "사진",
     "captured_at": "2026-09-18T14:37:06.524649+00:00"
+  },
+  "jtbc2026_racepack": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/jtbc2026_racepack.png",
+    "source_url": "https://marathon.jtbc.com/17/?bmode=view&idx=173732896&t=board",
+    "broker": "JTBC 서울마라톤 공식",
+    "topic": "2026 JTBC 서울마라톤 레이스팩 수령 안내 공지(SETEC 현장 수령)",
+    "captured_at": "2026-09-18T14:44:26.518982+00:00"
   }
 }
