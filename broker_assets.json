@@ -1095,5 +1095,12 @@
     "broker": "JTBC 서울마라톤 공식",
     "topic": "2025 JTBC 서울마라톤 교통통제·코스 안내 공지(2026 코스 발표 전 참고용)",
     "captured_at": "2026-09-18T14:44:35.282767+00:00"
+  },
+  "navien_mat_error_list": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/navien_mat_error_list.png",
+    "source_url": "https://www.navienhouse.com/support/guide/list/3058?tab=32",
+    "broker": "경동나비엔 나비엔하우스 공식",
+    "topic": "나비엔 숙면매트 온수 자가진단 가이드 — 에러 관련 목록",
+    "captured_at": "2026-09-18T16:48:06.392897+00:00"
   }
 }
