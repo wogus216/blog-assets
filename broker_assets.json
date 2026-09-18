@@ -1088,5 +1088,12 @@
     "broker": "JTBC 서울마라톤 공식",
     "topic": "2026 JTBC 서울마라톤 레이스팩 수령 안내 공지(SETEC 현장 수령)",
     "captured_at": "2026-09-18T14:44:26.518982+00:00"
+  },
+  "jtbc2025_traffic_map": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/jtbc2025_traffic_map.png",
+    "source_url": "https://marathon.jtbc.com/17/?bmode=view&idx=168416081&t=board",
+    "broker": "JTBC 서울마라톤 공식",
+    "topic": "2025 JTBC 서울마라톤 교통통제·코스 안내 공지(2026 코스 발표 전 참고용)",
+    "captured_at": "2026-09-18T14:44:35.282767+00:00"
   }
 }
