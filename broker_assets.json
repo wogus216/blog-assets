@@ -1040,5 +1040,12 @@
     "broker": "한국공항공사 김포공항 공식",
     "topic": "김포BIZ라운지(국제선 3층 일반구역) 요금·예약 안내",
     "captured_at": "2026-09-03T03:59:12.525376+00:00"
+  },
+  "shoe_structure_plus_kr": {
+    "raw_url": "https://raw.githubusercontent.com/wogus216/blog-assets/main/captures/shoe_structure_plus_kr.png",
+    "source_url": "https://www.nike.com/kr/t/%EB%82%98%EC%9D%B4%ED%82%A4-%EC%8A%A4%ED%8A%B8%EB%9F%AD%EC%B2%98-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%82%A8%EC%84%B1-%EB%A1%9C%EB%93%9C-%EB%9F%AC%EB%8B%9D%ED%99%94-v9fBu0M4/HQ3048-402",
+    "broker": "Nike 코리아",
+    "topic": "나이키 스트럭처 플러스 공식 제품 페이지",
+    "captured_at": "2026-09-18T14:17:48.651064+00:00"
   }
 }
